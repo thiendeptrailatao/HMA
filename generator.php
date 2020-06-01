@@ -40,3 +40,14 @@ $o = fopen($file, 'a');
 fwrite($o, $res);
 fclose($o);
 }
+
+Code : Code termux
+
+$ pkg update
+
+$ pkg upgrade
+
+$ pkg install php
+
+$ pkg install git
+
